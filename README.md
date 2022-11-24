@@ -1,2 +1,2 @@
 # javaScript
-JavaScript Algorithms &amp;&amp; Data Structuresv | freeCodeCamp
+JavaScript Algorithms &amp;&amp; Data Structures | freeCodeCamp
